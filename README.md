@@ -1,1 +1,1 @@
-# SymolicAI
+# SymbolicAI
